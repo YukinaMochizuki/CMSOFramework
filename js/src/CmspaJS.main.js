@@ -6,8 +6,7 @@
  * Date: 2018-05-21
  */
 (function (global, $) {
-    let emptyFunction = function () {
-    };
+    let emptyFunction = function () {};
 
     let config = {};
     let nowPage;
