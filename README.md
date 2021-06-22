@@ -31,7 +31,7 @@ It is a single-page application javascript framework. Support template variable 
 
 ## Usage and example
 
-### Entry tag
+### Entry element
 
 index.html
 ````html
@@ -90,7 +90,7 @@ index.html
 </script>
 ```
 
-### Template used component
+### Template
 
 > CSS Framework used Tailwind CSS
 
