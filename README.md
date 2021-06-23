@@ -2,7 +2,7 @@
 It is a single-page application javascript framework. Support template variable and dynamic rendering.
 
 ## General Information
-- Project status: Archived, because the technology used is outdated
+- Project status: **Archived**, because the technology used is outdated
 - Last update: Jun 26, 2018 Release v0.1.0a
 - Last commit: Jun 22, 2021 Update README and Add example
 
